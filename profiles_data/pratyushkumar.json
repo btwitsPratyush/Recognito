@@ -1,0 +1,40 @@
+{
+  "profile_id": "pratyushkumar",
+  "name": "Pratyush Kumar",
+  "linkedin_url": "https://www.linkedin.com/in/pratyushkumar",
+  "about": "Full-stack developer passionate about AI/ML, computer vision, and building innovative applications. Experienced in Python, React, Next.js, and modern web technologies.",
+  "job_title": "Full Stack Developer",
+  "company": "",
+  "experiences": [
+    {
+      "title": "Full Stack Developer",
+      "company": "",
+      "location": "India",
+      "duration": "",
+      "description": "Building AI-powered applications using Python, React, and modern web technologies."
+    }
+  ],
+  "educations": [
+    {
+      "institution": "",
+      "degree": "",
+      "duration": "",
+      "description": ""
+    }
+  ],
+  "interests": ["AI/ML", "Computer Vision", "Web Development", "Open Source"],
+  "accomplishments": [],
+  "recent_posts": [
+    {
+      "post_id": 1,
+      "content": "Built Recognito - a real-time face recognition system with conversational AI integration.",
+      "timestamp": "2026",
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "post_type": "project"
+    }
+  ],
+  "scraped_at": "2026-02-06T12:00:00.000000",
+  "profile_picture": "pratyushkumar_profile_picture.jpg"
+}
